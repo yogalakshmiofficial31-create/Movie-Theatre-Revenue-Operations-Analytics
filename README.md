@@ -131,13 +131,18 @@ A Star Schema was implemented.
 - Monthly Revenue Trend
 - Revenue by Genre
 - Interactive Slicers
+### 📄 Executive Dashboard
 
+![Executive Dashboard](Dashboard_Screenshots/executive_dashboard.png)
 ### 📄 Revenue Analysis
 
 - Revenue by Language
 - Revenue by Theatre
 - Revenue by Director
 - Revenue by Genre
+### 📄 Revenue Analysis
+
+![Revenue Analysis](Dashboard_Screenshots/revenue_analysis.png)
 
 ### 📄 Operations Dashboard
 
@@ -146,6 +151,9 @@ A Star Schema was implemented.
 - Weekday vs Weekend Revenue
 - Booking Status Analysis
 - Screen Performance
+### 📄 Operations Dashboard
+
+![Operations Dashboard](Dashboard_Screenshots/operations_dashboard.png)
 
 ### 📄 Customer & Promotion Dashboard
 
@@ -155,6 +163,9 @@ A Star Schema was implemented.
 - Membership Analysis
 - Food & Beverage Revenue
 - Customer Rating Analysis
+### 📄 Customer & Promotion Dashboard
+
+![Customer & Promotion Dashboard](Dashboard_Screenshots/customer_promotion_dashboard.png)
 
 ---
 
